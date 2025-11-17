@@ -2,7 +2,7 @@ make folder that contains :
 1. airflow-dag (etl_dag)
 2. config
 3. data (orders, users)
-4. scripts (bronze, silver, gold)
+4. scripts (bronze, silver, gold, analysis)
 
 
 make seperate folders : 
