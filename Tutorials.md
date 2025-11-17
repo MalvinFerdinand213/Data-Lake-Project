@@ -11,4 +11,5 @@ make seperate folders :
 3. logs
 4. plugins
 
+change volumes in docker-compose according to your folder location
 make sure docker has been installed in your computer
